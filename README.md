@@ -1,2 +1,2 @@
-# shiny-examples
-Example Shiny apps for common use cases.
+# shiny-devops
+Example R Shiny app that uses continuous integration.
